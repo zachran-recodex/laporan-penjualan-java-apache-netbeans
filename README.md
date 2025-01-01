@@ -89,11 +89,8 @@ Untuk memelihara dan memperbarui aplikasi:
 3. Perbarui dependensi secara teratur
 4. Pantau kinerja server dan database
 
-## Lisensi
-
-Hak Cipta © 2025. Dilindungi Undang-Undang.
-
 ## Kontak
 
 Untuk pertanyaan dan dukungan, silakan hubungi:
-[Masukkan informasi kontak Anda di sini]
+- Website: [recodex.id](https://recodex.id)
+- Email: zachranraze@recodex.id
